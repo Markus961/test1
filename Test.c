@@ -4,4 +4,6 @@ int main (void){
     printf("Hello wolrd");
     return 0;
     printf("ost");
+    Printf("mad");
+    return 0;
 }
